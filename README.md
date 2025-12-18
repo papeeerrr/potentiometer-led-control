@@ -47,7 +47,7 @@ To design and implement an embedded system that translates an analog signal into
 
 📷 **Wiring Diagram:** <img width="1391" height="733" alt="image" src="https://github.com/user-attachments/assets/c8f22105-616b-4b69-8fa8-59f19c43f708" />
 
-🔗 **Source Code:** 
+🔗 **Source Code:** src/led_control.ino
 
 
 **Code Improvement Note**
