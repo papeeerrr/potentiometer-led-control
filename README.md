@@ -1,13 +1,5 @@
 # Potentiometer-LED-Control
 
-potentiometer-led-control/
-│
-├── src/
-│   └── led_control.ino
-├── docs/
-│   ├── schematic.png
-│   └── wiring.png
-├── README.md
 
 **Description**
 A microcontroller-based system that uses a potentiometer as an analog input to control the activation of multiple LEDs. The system demonstrates ADC reading, threshold-based decision logic, and digital output control.
@@ -51,8 +43,10 @@ To design and implement an embedded system that translates an analog signal into
 * Debugging logic errors in embedded C
 * Importance of clean, readable firmware
 
-📷 **Circuit Diagram:** (attach schematic image)
-📷 **Wiring Diagram:** (attach breadboard image)
+📷 **Circuit Diagram:** <img width="1521" height="1194" alt="image" src="https://github.com/user-attachments/assets/dec81714-b608-422c-9426-2b687dfd4ce5" />
+
+📷 **Wiring Diagram:** <img width="1391" height="733" alt="image" src="https://github.com/user-attachments/assets/c8f22105-616b-4b69-8fa8-59f19c43f708" />
+
 🔗 **Source Code:** GitHub link
 
 **Code Improvement Note**
